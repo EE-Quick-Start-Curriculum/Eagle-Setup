@@ -16,4 +16,6 @@ Go here and download the version of eagle for your OS:
 
 ## Step 4:
 
-Proceed to :sparkles: [add libraries]() :sparkles: section
+Proceed to :sparkles: [add libraries](https://github.com/EE-Quick-Start-Curriculum/Eagle-Setup/blob/master/Getting-Libraries.md) :sparkles: section
+
+We'll be using the Seeed Studios libraries for ordering your first board.
