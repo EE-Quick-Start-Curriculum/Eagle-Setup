@@ -1,7 +1,8 @@
 ## Getting Libraries
 
 #### TODO:
-* [ x ] outline 
+
+* [x] outline 
 * [ ] instructions 
 * [ ] images
 
