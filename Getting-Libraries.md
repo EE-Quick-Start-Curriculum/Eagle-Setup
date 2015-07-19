@@ -1,9 +1,9 @@
 ## Getting Libraries
 
 #### TODO:
-[ ] outline 
-[ ] instructions 
-[ ] images
+* [ x ] outline 
+* [ ] instructions 
+* [ ] images
 
 In this section we'll go over how to add libraries to your project.
 
