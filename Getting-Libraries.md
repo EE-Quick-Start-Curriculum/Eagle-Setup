@@ -2,8 +2,8 @@
 
 #### TODO:
 
-* [x] outline 
-* [ ] instructions 
+* [x] sequence 
+* [ ] captions 
 * [ ] images
 
 In this section we'll go over how to add libraries to your project.
@@ -17,4 +17,4 @@ As an example, we'll go over how to add the libraries for SEEED's OPL.
 ### Set Libraries in Eagle
 
 
-## Check in Add Parts to make sure you have the files
+### Check in Add Parts to make sure you have the files
