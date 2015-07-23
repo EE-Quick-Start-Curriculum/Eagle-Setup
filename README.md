@@ -9,14 +9,14 @@ to complete the experience.
 
 ### Setup:
 
-1. Installation
-2. Getting Libraries
+1. [Installation](https://github.com/EE-Quick-Start-Curriculum/Eagle-Setup/blob/master/Downloading-Eagle.md)
+2. [Getting Libraries](https://github.com/EE-Quick-Start-Curriculum/Eagle-Setup/blob/master/Getting-Libraries.md)
 
 ### Workflow:
 
-3. Schematic
-4. Layout
-5. Sending out for Manufacturing
+3. [Schematic](https://github.com/EE-Quick-Start-Curriculum/Eagle-Setup/blob/master/Setting-Up-Your-Schematic.md)
+4. [Layout](https://github.com/EE-Quick-Start-Curriculum/Eagle-Setup/blob/master/Layout.md)
+5. Sending out for Manufacturing (TODO)
 
 
 ## Disclaimer 
