@@ -74,3 +74,5 @@ http://www.seeedstudio.com/wiki/File:OPL_eagle_library.zip
 
 ![img](./img/11-file-new-schematic-click-on-the-create-schematic-thenclick-onaddppart, should have Seeed-somewhere-there.png)
 
+
+Woot! You're all geared up, time to make some hardware!
