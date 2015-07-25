@@ -13,6 +13,8 @@ As an example, we'll go over how to add the libraries for SEEED's OPL.
 
 ### Get Files on This Page
 
+http://www.seeedstudio.com/wiki/File:OPL_eagle_library.zip
+
 
 ### Set Libraries in Eagle
 
