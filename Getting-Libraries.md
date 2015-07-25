@@ -1,17 +1,10 @@
-## Getting Libraries
-
-#### TODO:
-
-* [x] sequence 
-* [ ] captions 
-* [ ] images
+# Getting Libraries
 
 In this section we'll go over how to add libraries to your project.
 
 As an example, we'll go over how to add the libraries for SEEED's OPL.
 
-
-### Step 1) Download The Parts
+## Step 1) Download The Parts
 
 #### go to the following link and download the library (circled in red below):
 
@@ -21,7 +14,7 @@ http://www.seeedstudio.com/wiki/File:OPL_eagle_library.zip
 
 ---
 
-### Step 2) Place the parts in your library (lbr)
+## Step 2) Place the parts in your library (lbr)
 
 #### unzip the opl zip and paste into your eagle's lbr (for me this was `EAGLE-6.6.0/lbr`)
 
@@ -29,7 +22,7 @@ http://www.seeedstudio.com/wiki/File:OPL_eagle_library.zip
 
 ---
 
-### Step 3) Activate The Libraries
+## Step 3) Activate The Libraries
 
 #### 3a) Open the Eagle Program and go to the "Library folder" as in the image below:
 
