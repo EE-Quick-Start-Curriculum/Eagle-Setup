@@ -17,7 +17,7 @@ go to the following link and download the library (circled in red below):
 
 http://www.seeedstudio.com/wiki/File:OPL_eagle_library.zip
 
-[!img](./img/opl-download.png)
+![img](./img/opl-download.png)
 
 
 
